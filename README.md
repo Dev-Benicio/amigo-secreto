@@ -2,13 +2,6 @@
 
 > Aplicativo web para organização e sorteio de amigo secreto de forma simples e divertida. Não existe limite de participantes, o sorteio será realizado aleatoriamente, o sorteio é bloqueado após o primeiro sorteio, permitindo um unico sorteio, nao permindo trapças de sortear duas vezes.
 
-## 📋 Índice
-
-- [Sobre](#sobre)
-- [Funcionalidades](#funcionalidades)  
-- [Tecnologias](#tecnologias)
-- [Instalação](#instalação)
-
 ## 📝 Sobre
 
 Projeto desenvolvido para facilitar a organização de amigo secreto, permitindo adicionar participantes e realizar sorteios de forma aleatória. Este projeto foi desenvolvido com o objetivo de realizar o Challenge de Iniciante em Programação da Plataforma ONE com a Alura.
