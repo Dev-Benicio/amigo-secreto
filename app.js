@@ -16,7 +16,7 @@ function adicionarAmigo() {
       alert("Por favor, insira um nome.");
     }
   } else {
-    alert("Não é possível adicionar mais amigos, o sorteio já foi realizado!");
+    alert("Não é possível realizar o sorteio pois já foi realizado!");
   }
 }
 
