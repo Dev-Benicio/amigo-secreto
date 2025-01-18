@@ -54,7 +54,7 @@ function sortearAmigo() {
     proibeNovoSorteio();
     condicao = false;
   } else {
-    alert('O Sorteio já realizado! 😔');
+    alert('O Sorteio já foi realizado! 😔');
   }
 }
 
