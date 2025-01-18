@@ -1,6 +1,6 @@
 # Amigo Secreto - Sorteador Digital 🎁
 
-> Aplicativo web para organização e sorteio de amigo secreto de forma simples e divertida. Não existe limite de participantes, o sorteio será realizado aleatoriamente, o sorteio é bloqueado após o primeiro sorteio, permitindo um unico sorteio, nao permindo trapças de sortear duas vezes.
+> Aplicativo web para sorteio de amigo secreto de forma simples e divertida. Não existe limite de participantes, o sorteio será realizado aleatoriamente, o sorteio é bloqueado após o primeiro sorteio, permitindo um unico sorteio, nao permindo trapças de sortear duas vezes.
 
 ## 📝 Sobre
 
